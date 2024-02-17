@@ -12,6 +12,9 @@ This repository is a group assignment showing the obtained D-H Parametric Table 
 Group 6 Members:
 
 Abong, Louwella (PL)
+
 Atienza, Ma. Angela (PQ)
+
 Marasigan, Stanlee (PP)
+
 Reyes, Shervin (PS)

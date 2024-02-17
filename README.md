@@ -1,0 +1,1 @@
+# ARTICULATED_Group6_Assignment1_2024

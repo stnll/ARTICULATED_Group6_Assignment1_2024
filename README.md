@@ -5,11 +5,11 @@
 Group 6 Members:
 
 
-Abong, Louwella (TL)
+Abong, Louwella (PL)
 
 Atienza, Angela (PQ)
 
 Marasigan, Stanlee (PP)
 
-Reyes, Shervin (Supervisor)
+Reyes, Shervin (PS)
 

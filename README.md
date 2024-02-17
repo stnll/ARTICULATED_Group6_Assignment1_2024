@@ -8,6 +8,9 @@ This repository is a group assignment showing the obtained D-H Parametric Table 
 2. SCARA - PRR Variant
 
 3. Cartesian Manipulator on Ceiling
+![image](https://github.com/stnll/ARTICULATED_Group6_Assignment1_2024/assets/157665975/565e02e7-eaef-4a00-b79b-49c92d16d080)
+
+
 
 Group 6 Members:
 

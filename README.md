@@ -2,7 +2,7 @@
 
 This repository is a group assignment showing the obtained D-H Parametric Table and their respective codes in MATLAB from the kinematic diagram of the Mechanical Manipulators.
 
-1. Spherical Manipulator - Modern Variant
+1. Spherical Manipulator - Modern Variant - D-H 
    ![423903910_675964741167181_6587754639339728552_n](https://github.com/stnll/ARTICULATED_Group6_Assignment1_2024/assets/157665975/e14cee15-17e7-4643-9f3e-8efa96fadacc)
    ![1 3 Spherical Manipulator - Modern Variant Figure](https://github.com/stnll/ARTICULATED_Group6_Assignment1_2024/assets/157665975/6dd3af94-3e3d-4d49-b87d-69e3517e8b44)
 

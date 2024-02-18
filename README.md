@@ -6,8 +6,8 @@ This repository is a group assignment showing the obtained D-H Parametric Table 
    ![423903910_675964741167181_6587754639339728552_n](https://github.com/stnll/ARTICULATED_Group6_Assignment1_2024/assets/157665975/e14cee15-17e7-4643-9f3e-8efa96fadacc)
    ![1 3 Spherical Manipulator - Modern Variant Figure](https://github.com/stnll/ARTICULATED_Group6_Assignment1_2024/assets/157665975/6dd3af94-3e3d-4d49-b87d-69e3517e8b44)
 
-3. SCARA - PRR Variant
-4. ![427957167_278409271759111_3346262235518873354_n]
+3. SCARA - PRR Variant- D-H Parametric Table
+![427957167_278409271759111_3346262235518873354_n](https://github.com/stnll/ARTICULATED_Group6_Assignment1_2024/assets/157555995/0e0baeb1-e968-4201-9937-4c06f4cc8ab6)
    ![2 3 SCARA - PRR Variant - Figure](https://github.com/stnll/ARTICULATED_Group6_Assignment1_2024/assets/157665975/a8ddde35-9e35-4a14-b6b5-8e9d61b9723e)
 
 5. Cartesian Manipulator on Ceiling

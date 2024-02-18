@@ -10,7 +10,7 @@ This repository is a group assignment showing the obtained D-H Parametric Table 
 ![427957167_278409271759111_3346262235518873354_n](https://github.com/stnll/ARTICULATED_Group6_Assignment1_2024/assets/157555995/0e0baeb1-e968-4201-9937-4c06f4cc8ab6)
    ![2 3 SCARA - PRR Variant - Figure](https://github.com/stnll/ARTICULATED_Group6_Assignment1_2024/assets/157665975/a8ddde35-9e35-4a14-b6b5-8e9d61b9723e)
 
-5. Cartesian Manipulator on Ceiling - D-H 
+5. Cartesian Manipulator on Ceiling - D-H Parametric 
 ![3 2 Cartesian Manipulator on Ceiling - DH Parametric Table](https://github.com/stnll/ARTICULATED_Group6_Assignment1_2024/assets/157665975/5849cd5f-9580-4a55-9b4c-c4d63892098d)
 ![3 3 Cartesian Manipulator on Ceiling - Figure](https://github.com/stnll/ARTICULATED_Group6_Assignment1_2024/assets/157665975/cd14ebd4-7f73-4ca0-9fbb-afb18157f710)
 

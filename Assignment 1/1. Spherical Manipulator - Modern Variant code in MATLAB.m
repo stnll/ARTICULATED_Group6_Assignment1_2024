@@ -6,7 +6,7 @@ syms a1 a2 a3 d3
 
 a1 = 5;
 a2 = 5;
-a3 = 3;
+a3 = 2;
 
 %% Joint Variables
 
